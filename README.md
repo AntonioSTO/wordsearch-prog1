@@ -1,4 +1,5 @@
-# Ufes-Prog1-WordSearch
+# Ufes
+# Programação 1 - Word Search
 
 Projeto de programação realizado na linguagem C para a disciplina de Programação I do curso de Engenharia Elétrica da Ufes.
 
