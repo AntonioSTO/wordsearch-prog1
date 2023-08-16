@@ -12,5 +12,7 @@ Projeto de programação realizado na linguagem C para a disciplina de Programa�
 
 sendo 'n_linhas' e 'n_colunas' definidas pelo conteúdo de seu arquivo .txt de referência
 
+
 Um relatório de execução do projeto pode ser encontrado abaixo.
+
 [Clique aqui para baixar o PDF](URL_do_PDF)
