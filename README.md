@@ -10,9 +10,8 @@ Projeto de programação realizado na linguagem C para a disciplina de Programa�
 
       trab2.exe wordle.txt "n_linhas" "n_colunas"
 
-sendo 'n_linhas' e 'n_colunas' definidas pelo conteúdo de seu arquivo .txt de referência
+sendo 'n_linhas' e 'n_colunas' definidas pelo conteúdo de seu arquivo .txt de referência.
 
 
-Um relatório de execução do projeto pode ser encontrado abaixo.
-
-# [Clique aqui para baixar o PDF](URL_do_PDF)
+Para mais informações, acesse o relatório de execução do projeto.
+[Clique aqui para baixar o PDF](URL_do_PDF)
