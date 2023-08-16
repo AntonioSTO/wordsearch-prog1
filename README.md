@@ -15,4 +15,4 @@ sendo 'n_linhas' e 'n_colunas' definidas pelo conteúdo de seu arquivo .txt de r
 
 Um relatório de execução do projeto pode ser encontrado abaixo.
 
-[Clique aqui para baixar o PDF](URL_do_PDF)
+# [Clique aqui para baixar o PDF](URL_do_PDF)
